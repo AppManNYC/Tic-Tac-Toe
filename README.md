@@ -6,7 +6,10 @@ Concurrently, the algorithm evaluates the moves that lead to a terminal state ba
 
 Screenshots:
 =======
-![alt text](https://github.com/AppManNYC/Tic-Tac-Toe/blob/master/Images/Screen%20Shot%202018-08-27%20at%2012.52.03%20PM.png)<hr>
-![alt text](https://github.com/AppManNYC/Tic-Tac-Toe/blob/master/Images/Screen%20Shot%202018-08-27%20at%2012.52.21%20PM.png)
-<hr>
+![screen shot 2018-09-01 at 12 22 44 pm](https://user-images.githubusercontent.com/11365270/44947886-0309fb00-ade2-11e8-968d-69ce4cc34d6e.png)
+![screen shot 2018-09-01 at 12 23 08 pm](https://user-images.githubusercontent.com/11365270/44947887-09987280-ade2-11e8-9c5f-dcfdb495f906.png)
+![screen shot 2018-09-01 at 12 23 21 pm](https://user-images.githubusercontent.com/11365270/44947890-0e5d2680-ade2-11e8-8ec0-3d25d49ebfb4.png)
+![screen shot 2018-09-01 at 12 23 33 pm](https://user-images.githubusercontent.com/11365270/44947897-1b7a1580-ade2-11e8-8e9c-5a66accba8d1.png)
+![screen shot 2018-09-01 at 12 23 49 pm](https://user-images.githubusercontent.com/11365270/44947898-1e750600-ade2-11e8-8fdc-d20edad7169e.png)
+
 
